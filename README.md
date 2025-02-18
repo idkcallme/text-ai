@@ -64,7 +64,7 @@ a Facial recognition program that listens to the speech of the user and displays
 1.  Run the script:
 
     ```
-    python comic_book_ai.py
+    python Text-ai.py
     ```
 
 2.  The application will open your webcam and start detecting faces and recognizing speech.
